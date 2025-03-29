@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omowunmi-ateni
 - 👀 I’m interested in creating visualized data driven projects
 - 🌱 I’m currently learning phyton and power BI
-- 💞️ I’m looking to collaborate on companies/ firms with large data to analyse
+- 💞️ I’m looking to collaborate with companies/ firms with large data to analyse
 - 📫 How to reach me @ atenioluwatoyin@gmail.com 
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ...I love engaging in intellectual conversions.
